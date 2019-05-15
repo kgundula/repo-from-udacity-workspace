@@ -28,7 +28,7 @@ git add -A
 git commit -m "Initial Commit"
 ```
 Your Workspace terminal should look something like this:
-![Workspace Terminal](./images/demo-repo-Workspace.jpg)
+![Workspace Terminal](./images/demo-repo-workspace.jpg)
 
 
 ### Go to **[GitHub.com](https://github.com/)** and log in:
@@ -54,7 +54,7 @@ git push -u origin master
 ```
 
 8.  Enter your GitHub username and password when prompted:
-![Workspace Terminal](./images/demo-repo-Workspace-2.jpg)
+![Workspace Terminal](./images/demo-repo-workspace-2.jpg)
 
 ---
 
